@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name measurement_scales)(type KiCad)(uri ${KIPRJMOD}/Libraries/Packages/Measurement_Scales.pretty)(options "")(descr ""))
+  (lib (name symbols)(type KiCad)(uri ${KIPRJMOD}/Libraries/Packages/Symbols.pretty)(options "")(descr ""))
+)
