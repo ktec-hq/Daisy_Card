@@ -1,4 +1,4 @@
-(kicad_pcb (version 4) (host pcbnew 4.0.2-stable)
+(kicad_pcb (version 4) (host pcbnew 4.0.6)
 
   (general
     (links 0)
@@ -13490,7 +13490,7 @@
   (gr_text 180 (at 33 73 180) (layer F.Mask) (tstamp 5996CCE1)
     (effects (font (size 1.25 1.25) (thickness 0.2)))
   )
-  (gr_text 160 (at 41 71 210) (layer F.Mask) (tstamp 5996CCDD)
+  (gr_text 150 (at 41 71 210) (layer F.Mask) (tstamp 5996CCDD)
     (effects (font (size 1.25 1.25) (thickness 0.2)))
   )
   (gr_text 120 (at 47 65 240) (layer F.Cu) (tstamp 5996CCD9)
@@ -13511,7 +13511,7 @@
   (gr_text 180 (at 33 73 180) (layer F.Cu) (tstamp 5996CCA9)
     (effects (font (size 1.25 1.25) (thickness 0.2)))
   )
-  (gr_text 160 (at 41 71 210) (layer F.Cu) (tstamp 5996CCA7)
+  (gr_text 150 (at 41 71 210) (layer F.Cu) (tstamp 5996CCA7)
     (effects (font (size 1.25 1.25) (thickness 0.2)))
   )
   (gr_text 120 (at 47 65 240) (layer F.Mask) (tstamp 5996CCA5)
