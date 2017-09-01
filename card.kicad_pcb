@@ -13042,7 +13042,7 @@
       (xy -20.734819 -16.520473) (xy -21.021845 -16.590605) (xy -21.400707 -16.637409) (xy -21.400708 -16.637397)) (layer F.Mask) (width 0.01))
   )
 
-  (module measurement_scales:Ruler_80mm (layer F.Cu) (tedit 59965B6B) (tstamp 597FEF20)
+  (module measurement_scales:Ruler_80mm (layer F.Cu) (tedit 59A91179) (tstamp 597FEF20)
     (at 33 30)
     (fp_text reference GA1 (at 2 -1) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -13050,7 +13050,7 @@
     (fp_text value 80mm (at 2 7) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user 7 (at 71 6) (layer F.Cu)
+    (fp_text user 7 (at 71 6) (layer F.SilkS) hide
       (effects (font (size 1.5 1.5) (thickness 0.2)))
     )
     (fp_text user 6 (at 61 6) (layer F.Cu)
@@ -13574,7 +13574,7 @@
   (gr_text "Pitch\n0.8mm" (at 70 40) (layer B.SilkS)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
-  (gr_text v2 (at 91 65) (layer F.Cu)
+  (gr_text v3 (at 91 65) (layer F.Cu)
     (effects (font (size 1.5 1.5) (thickness 0.2)) (justify left))
   )
   (gr_text K.T.E.C. (at 74 74) (layer F.Cu) (tstamp 598359E7)
