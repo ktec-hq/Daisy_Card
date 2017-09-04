@@ -35,8 +35,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "Daisy Card"
-Date "2017-08-18"
-Rev "v2"
+Date "2017-09-04"
+Rev "v4"
 Comp "K.T.E.C."
 Comment1 ""
 Comment2 ""
